@@ -1,0 +1,15 @@
+beautifulsoup4==4.4.1
+bs4==0.0.1
+decorator==4.0.10
+docopt==0.6.2
+IPy==0.83
+networkx==1.11
+numpy==1.11.1
+pandas==0.18.1
+python-dateutil==2.5.3
+pytz==2016.6.1
+requests==2.10.0
+scipy==0.17.1
+six==1.10.0
+urllib3==1.16
+-e git+https://louisdijkstra@bitbucket.org/louisdijkstra/wiki-scraper.git@ff20d53d613773cde3c2f43b097f643467a26673#egg=wikiscraper
