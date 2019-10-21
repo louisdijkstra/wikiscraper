@@ -11,5 +11,5 @@ pytz==2016.6.1
 requests==2.10.0
 scipy==0.17.1
 six==1.10.0
-urllib3==1.16
+urllib3==1.24.2
 -e git+https://louisdijkstra@bitbucket.org/louisdijkstra/wiki-scraper.git@ff20d53d613773cde3c2f43b097f643467a26673#egg=wikiscraper
